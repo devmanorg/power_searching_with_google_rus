@@ -1,5 +1,3 @@
-TODO: translate https://coursebuilder.withgoogle.com/sample/unit?unit=2&lesson=10
-
 # Порядок слов важен
 
 Давайте поговорим о том, как конкретно вы делаете запрос в поисковую систему.
