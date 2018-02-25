@@ -1,127 +1,80 @@
-one of the things you know about the web
-and about searching with Google is that
-there's a lot of different stuff out
-there there are web pages their images
-their videos there's all kinds of stuff
-out there and one of the things I want
-you to learn from this class is that you
-should be checking out the options that
-are beyond what you just ordinarily
-think about let me show you what I mean
-as you can see here there are lots of
-different kinds of content on Google and
-we try to blend that different kind of
-web results into the search results page
-so what you see here is that there's a
-set of results for the query resume so
-suppose you're searching for a resume
-and you see there in the middle there's
-a set of images that we've clustered
-together and put into the middle there
-that's giving you a hint that maybe you
-should go beyond just the web page what
-I mean by that is that sometimes looking
-beyond just the usual kind of web search
-results will give you really interesting
-insights into what your problem is one
-thing to remember also is that at the
-bottom of the page there are sometimes
-what we call the related searches so
-here we can see for our query resume
-that there are resume templates how to
-write a resume cover letters and so on
-these are suggestions that you might
-consider checking out as other ways to
-phrase your query now the key point of
-this lesson is that there are other
-kinds of media so for example when you
-do a query for resume you might just
-think of well I'm looking for webpages
-about resumes and how to make a resume
-but in fact if you go and look at images
-of resumes you'll see this huge variety
-of different kinds of results that are
-really going to be interesting now look
-what you could see is that we've done
-our query for a resume and clicked on
-the Images tab at the very top there's a
-scrolling list this horizontal scrolling
-list of clusters of different kinds of
-image results here you can see we've got
-examples resume templates job resumes
-and so on so what we're doing is not
-only showing you images of resumes but
-also finding groups
-of kinds of images of resumes that you
-might consider clicking into perhaps the
-best way for me to show this is just to
-do it live so let me do this search for
-resume now the resume searches that are
-related are here at the bottom you see
-that I've scrolled all the way down and
-you can see those are related searches
-but now I'm going to click on the Images
-tab right there and you can see our
-clusters across the top the examples
-templates and so on and you can see
-there are lots of different kinds of
-examples here so sometimes an image
-search is exactly the thing you want to
-do now remember this is true for other
-kinds of queries as well so remember our
-query about sagittario that sort of
-plant thing we looked at earlier here
-I've done the regular web search and you
-can see the results these should look
-just like what you've seen before but
-suppose we do a video search for
-sagittario yes there are videos about
-this plant and these are videos showing
-you how to plant it in your aquarium and
-so on
-there are even news items about subject
-area about interesting new ecology
-results about the invasiveness of a
-subject area whatever but consider
-checking out these other media types
-there's even a set of results for
-shopping because yes in fact sometimes
-you want to buy this thing so my point
-is not that anyone is particularly
-better than the other but sometimes
-looking across media types can give you
-real insight into your question let me
-show you one other kind of other media
-kind that might be really interesting
-for you suppose I have a question like
-how to replace my bike chain now here
-are the results for it but you notice
-that the very first two results are
-videos so in fact if we click on videos
-in the tab here you'll see a lot of
-different examples and sometimes it's
-useful to look at different examples of
-videos so you can see it from this angle
-or that angle or something but my point
-is sometimes checking out the different
-media kinds will give you different
-insights let me do one more
-how to cook a pizza so here we see there
-are some inserted results here at the
-very top but even more images more
-webpages and we've included little
-images you can see kind of what you're
-getting into but if we click on videos
-there's probably going to be a ton of
-videos there's going to be a ton of
-shopping results a ton ton of images and
-you get the idea even something as
-simple as a how-to query can sometimes
-be made better by looking at the images
-of the videos or whatever my point here
-is that sometimes getting outside the
-box is it really really useful thing to
-do and your next query your next
-challenge on your own consider checking
-out these other kinds of media because
-there's a lot of stuff out there
+# 2.3 Разбираемся с разными вариантами данных (медиа)
+
+
+Одна из вещей, кторые вы знаете о Вебе и о поиске с Гугл, что здесь куча разного стаффа - веб страницы, картинки, видео, тысячи их.
+
+И одна из вещей, которые я хочу чтобы вы узнали из этого урока, что вы должны проверить варианты, о кторых обычно не думаете.
+
+Позвольте, я покажу.
+
+Как вы видите, Гугл выдает кучу разного контента, мы стараемся смешивать разные типы веб-результатов на странице результатов поиска.
+
+Это набор результатов по запросу *resume* (резюме).
+
+Предположим вы ищите *резюме* и здесь, по середине, вы видите набор картинок, которые мы кластеризовали вместе и положили здесь посередине.
+
+Это дает вам подсказку, что может вам следует искать не только веб-страницы. (что может вам следует пойти дальше веб-страниц)
+
+
+Я имею в виду, что иногда обратив внимание на большее, чем обычные веб-результаты поиска, вы получите действительно интересные сведения о том, что ваша проблема
+
+Еще одна полезная штука для запоминания, что внизу страницы иногда находится то, что мы называетм "связаные запросы".
+
+Вот, что мы видим по нашему запросу resume  - зедсь и шаблоны резюме, как писать сопроводительные письма, и т.д. Здесь также предложения проверить другие способы сформулировать ваш запрос.
+
+Основная мысль этого урока в том, что существуют другие варианты медиа.
+
+Например, когда выделаете запрос resume мы можете просто думать "Ок, я ищу веб-страницы о резюме и о том, как создать резюме".
+
+Но на самом деле, если вы взглянете на картинки с резюме ыв обнаружите огромное количество различных результатов, которые могут быть интересны.
+
+Тперь глянем, что было бы, если мы выполнили поиск по запросу resume и тыкнули по вкладке Картинки наверху
+
+Здесь прокручивающийся список кластеров различных картинок-результатов.
+
+Здесьвы можете видеть, что мы получили шаблоны резюме, джоб резюме и т.д.
+
+
+Мы не только показываем вам картинки с резюме, но и также ижем группы похожих картинок, на которые вы возможно захотите кликнуть
+
+Возможно лучший способ показать это - сделать всё вживую
+
+Позвольте мне выполнить поиск по слову resume.
+
+Запросы, связынные (относящиеся к) resume, находятся внизу. Вы видите я проскроллил в самый низ, и здесь вы можете видеть связанные запросы. Но теперь я собираюсь кликнуть по Картинкам, и вы увидете наши кластеры поперек верха, примеры шаблонов и т.д.
+
+И вы можете видеть множество разных примеров здесь.
+
+Т.е. иногда поиск оп картинкам именно то, что нужно.
+
+Запомните, что это также правда и для других запросов.
+
+Вспомните наш запрос sagittario, вид растения, который мы искали раньше.
+
+Я выполнил обычный веб поиск и вы можете видеть результаты, такие же как мы получили раньше. Но предположим что мы жем видео оп запросу sagittario - да, есть видео об этом растении, видео о том как посадит это растение в аквариуме и т.д.
+
+Есть даже новости по этой теме. Интересные свежие (новые) экологические результаты о распространении (захваничестве) растения.
+
+Рассмотрите эти другие варианты медиа.
+
+Есть даже результаты шопинга, да, потому что иногда вы хоите купить эту штуку.
+
+Моя мысль здесь, не что что-то лучше, чем другое, а что иногда просматривая другие типы данных может дать вам реальные идеи (понимание) вашего вопроса.
+
+Позвольте показать вам другие типы медиа, которые могут быть реально интересными.
+
+Предположим, у меня вопрос типа how to replace my bike chain (как заменить велосипедную цепь)
+
+Вот результаты по запросу, но заметьте, что самые первые два результата - это видео, и если мы нажмем на вкладку Видео вы увидете кучу разных примеров и иногда полезно взглянуть на отличающиесяя результаты видео, чтобы  взглянуть с этой стороны или с другой, иещ какой-нть, но мой мысль здесь, что иногда проверяя другие типы данных, получите другую точку зрения
+
+Дайте мне сделать еще один: как готоаить пиццу
+
+Мы видим вставленные результаты наверху страницы, но еще больше картинок, еще больше веб-страниц, и мы добавили маленькие картинки, чтобы вы знали, что есть еще всякое.
+
+Но если мы нажмем на видео, то скорее всего здесь будут тонны видео, тонны покупок, тонны картинок, вы уловили мысль.
+
+Даже что-то простое вроде запростов "Как сделать ... ?" может сделать лучше просматривая картинки, видео и просчее
+
+Моя мысль, что иногда вылезая за пределы коробки, получает полезные результаты.
+
+И ваш следующий запрос, ваш следующий вызов самому себе проверить другие варианты медиа, потому что там много интересного.
